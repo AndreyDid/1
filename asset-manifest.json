@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AndreyDid/1.git/static/css/main.d95afa95.css",
+    "main.js": "/AndreyDid/1.git/static/js/main.5aed6085.js",
+    "index.html": "/AndreyDid/1.git/index.html",
+    "main.d95afa95.css.map": "/AndreyDid/1.git/static/css/main.d95afa95.css.map",
+    "main.5aed6085.js.map": "/AndreyDid/1.git/static/js/main.5aed6085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95afa95.css",
+    "static/js/main.5aed6085.js"
+  ]
+}
